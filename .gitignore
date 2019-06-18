@@ -1,2 +1,3 @@
+#be sure to ignore any files and folder with sensitive keys
 config.js
 node_modules/
