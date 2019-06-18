@@ -1,0 +1,15 @@
+{
+  "name": "tron-account-holder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "withdraw.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "getPaid": "node withdraw.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tronweb": "^2.6.3"
+  }
+}
