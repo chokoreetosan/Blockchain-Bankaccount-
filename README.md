@@ -1,7 +1,8 @@
 # Blockchain-Bankaccount-
 Creates a smart contract on the tron blockchain that can store funds, and user can withdraw with password.
 
-You need to deploy the smart contract on the blockchain.  I suggest tronbox.  
+Included is the original smart contract deployment address.  
+If you want to to deploy the smart contract on the blockchain.  I suggest tronbox.  
 You can pick a password by swapping it out for the provided one in the contract.
 You can deposit funds by sending to the generated contract address.
 
