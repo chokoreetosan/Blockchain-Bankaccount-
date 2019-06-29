@@ -10,7 +10,7 @@ If you want to to deploy the smart contract on the blockchain, I suggest [tronbo
 
 In addition, this contract should also run on the Ethereum virtual machine with few or no modifications.
 
-# Usage
+## Usage
 
 To install the dependencies, run
 
