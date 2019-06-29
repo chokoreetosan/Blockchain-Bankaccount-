@@ -1,4 +1,4 @@
-# Blockchain-Bankaccount-
+# Blockchain-Bankaccount
 Creates a smart contract on the tron blockchain that can store funds which the user can withdraw by providing a password.  This project currently respects no security practices, and is intended to be a teaching tool.  It contains an extremely simple smart contract and an extremely simple node app that utilizes it.
 
 Included is: 
@@ -9,7 +9,8 @@ Included is:
 If you want to to deploy the smart contract on the blockchain, I suggest [tronbox](https://github.com/tronprotocol/tron-box).  
 
 In addition, this contract should also run on the Ethereum virtual machine with few or no modifications.
-#Usage
+
+# Usage
 
 To install the dependencies, run
 
