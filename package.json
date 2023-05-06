@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "tronweb": "^2.6.3"
+    "tronweb": "^5.1.0"
   }
 }
